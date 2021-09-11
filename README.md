@@ -1,2 +1,3 @@
 # linear-regression-
-Linear regression with simple example 
+full explaination is on :
+Do follow me there
